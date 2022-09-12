@@ -1,0 +1,8 @@
+{
+    "css.lint.boxModel": "warning",
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.float": "warning",
+    "css.lint.idSelector": "warning",
+    "css.lint.important": "warning",
+    "css.lint.universalSelector": "warning"
+}
